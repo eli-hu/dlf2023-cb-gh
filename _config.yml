@@ -27,14 +27,14 @@ tagline: a tour of Idaho
 # this description might appear in search result lists, keep around 160 characters max
 description: "a collection created during the CollectionBuilder workshop at Learn@DLF 2023"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: eli-hu
+author: 'eli-hu'
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: _data/idaho_cities_eli-hu
+metadata: '_data/idaho_cities_eli-hu'
 
 ##########
 # Site/Organization Branding 
